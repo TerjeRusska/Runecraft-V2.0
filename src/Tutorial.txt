@@ -1,0 +1,34 @@
+------------RUNECRAFT GAMEPLAY------------
+INSTRUCTIONS:
+
+Similar to rock-paper-scissors, you will
+randomly be given 20 runes. Each rune has
+5 weaknesses and 5 attack methods. What
+rune types and how many a player gets,
+is randomly generated. There are a total of
+11 different rune Types.
+
+The rune in the middle, called Pure Essence,
+is a wild-card and can attack any other rune,
+without having any weaknesses. These runes
+are rare and the player may obtain only one
+Pure Essence per game.
+
+ENVIRONMENT:
+
+After every 5 turns, the environment of the
+game will be randomly changed. Each environment
+gives certain runes power-ups.
+
+* Each power-up the environment gives will last
+until the environment changes.
+
+COSMIC- Runes Soul, Mind and Cosmic become immune.
+WATER- Runes Water, Air and Body become immune.
+FIRE- Runes Fire, Blood and Chaos can attack all.
+EARTH- Runes Nature and Law can attack all and
+become immune.
+
+Due to the power-ups, if both runes:
+* Have the ability to attack each other, then the battle will end in a tie.
+* Are immune to each other, then the battle will end in a tie.

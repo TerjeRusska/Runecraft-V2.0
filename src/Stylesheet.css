@@ -1,0 +1,100 @@
+.buttonDefault {
+    -fx-background-color: rgba(33,33,33,0.91);
+    -fx-border-color: ghostwhite;
+    -fx-font-family: Impact;
+    -fx-font-weight: bold;
+    -fx-font-size: 30 px;
+    -fx-border-width: 10;
+}
+.buttonDefault:hover {
+    -fx-background-color: rgba(33,33,33,1);
+    -fx-border-color: gold;
+    -fx-border-width: 10;
+    -fx-font-size: 30 px;
+    -fx-font-family: Impact;
+    -fx-font-weight: bold;
+}
+.buttonDefault:left {
+    -fx-background-color: rgba(33,33,33,0.91);
+    -fx-border-color: ghostwhite;
+    -fx-border-width: 10;
+    -fx-font-size: 30 px;
+    -fx-font-family: Impact;
+    -fx-font-weight: bold;
+}
+.buttonDefault:pressed {
+    -fx-background-color: rgb(70,70,70);
+    -fx-border-color: antiquewhite;
+    -fx-border-width: 10;
+    -fx-font-size: 30 px;
+    -fx-font-family: Impact;
+    -fx-font-weight: bold;
+}
+.labelTitle {
+    -fx-background-color: rgba(33,33,33,0);
+    -fx-border-color: ghostwhite;
+    -fx-border-width: 10;
+    -fx-font-size: 60 px;
+    -fx-font-family: Impact;
+    -fx-text-alignment: center;
+    -fx-text-fill: ghostwhite;
+}
+.labelTable {
+    -fx-background-color: rgba(33,33,33,0);
+    -fx-border-color: ghostwhite;
+    -fx-border-width: 10;
+    -fx-font-size: 30 px;
+    -fx-font-family: Impact;
+    -fx-text-alignment: center;
+    -fx-text-fill: rgba(33,33,33,1);
+}
+.labelTutText {
+    -fx-font-size: 20 px;
+    -fx-background-color: transparent;
+    -fx-text-fill: rgba(33,33,33,1);
+    -fx-font-family: Impact;
+    -fx-text-alignment: center;
+}
+.labelStatsPlayer {
+    -fx-font-size: 30 px;
+    -fx-background-color: rgba(255,215,0,0.44);
+    -fx-text-fill: rgba(33,33,33,1);
+    -fx-font-family: Impact;
+    -fx-text-alignment: center;
+}
+.labelStatsComputer {
+    -fx-font-size: 30 px;
+    -fx-background-color: rgba(0,139,139,0.44);
+    -fx-text-fill: rgba(33,33,33,1);
+    -fx-font-family: Impact;
+    -fx-text-alignment: center;
+}
+.tooltipStyle {
+    -fx-background-color: rgba(70, 70, 70, 0.71);
+    -fx-border-color: antiquewhite;
+    -fx-border-width: 5;
+    -fx-font-size: 20 px;
+    -fx-text-fill: GOLD;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+.labelInfoText {
+    -fx-font-size: 30 px;
+    -fx-background-color: transparent;
+    -fx-text-fill: gold;
+    -fx-font-family: Impact;
+    -fx-text-alignment: center
+}
+.enterText {
+    -fx-text-alignment: center;
+    -fx-text-fill: rgba(33,33,33,1);
+    -fx-font-family: Impact;
+    -fx-font-size: 30;
+}
+.labelInfoTextLost {
+    -fx-font-size: 30 px;
+    -fx-background-color: transparent;
+    -fx-text-fill: #ff1c25;
+    -fx-font-family: Impact;
+    -fx-text-alignment: center
+}
